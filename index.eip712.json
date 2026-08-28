@@ -759,6 +759,30 @@
       }
     ]
   },
+  "eip155:11155111:0x5d8bd78e2ea6bbe41f26dfe9fdaeaa349e077478": {
+    "DelegatedUserDecryptRequestVerification": [
+      {
+        "path": "registry/zama/eip712-DelegatedUserDecryptRequestVerificationV1.json",
+        "encodeTypeHashes": [
+          "0xc93bc1d3fd0d779bf2a605403200af965b7571bbaf3401ffb5174398fbddac45"
+        ]
+      }
+    ],
+    "UserDecryptRequestVerification": [
+      {
+        "path": "registry/zama/eip712-UserDecryptRequestVerificationV1.json",
+        "encodeTypeHashes": [
+          "0x9bf1f2b06a0ed501e5fa5a12ba3f9fbc1343c988847fb585c29c59ada4b71ab5"
+        ]
+      },
+      {
+        "path": "registry/zama/eip712-UserDecryptRequestVerificationV2.json",
+        "encodeTypeHashes": [
+          "0x4ee965201c2f6fd39bb37401a5de0ea2362ef4db8199c112ec67d694006e114e"
+        ]
+      }
+    ]
+  },
   "eip155:11155111:0x69f4d1788e39c87893c980c06edf4b7f686e2938": {
     "AddAddressBookEntry": [
       {
@@ -2075,6 +2099,30 @@
         "path": "registry/tally/eip712-tally-ethereum-pool-token.json",
         "encodeTypeHashes": [
           "0xe48329057bfd03d55e49b547132e39cffd9c1820ad7b9d4c5307691425d15adf"
+        ]
+      }
+    ]
+  },
+  "eip155:1:0x0f6024a97684f7d90ddb0faad79cb15f2c888d24": {
+    "DelegatedUserDecryptRequestVerification": [
+      {
+        "path": "registry/zama/eip712-DelegatedUserDecryptRequestVerificationV1.json",
+        "encodeTypeHashes": [
+          "0xc93bc1d3fd0d779bf2a605403200af965b7571bbaf3401ffb5174398fbddac45"
+        ]
+      }
+    ],
+    "UserDecryptRequestVerification": [
+      {
+        "path": "registry/zama/eip712-UserDecryptRequestVerificationV1.json",
+        "encodeTypeHashes": [
+          "0x9bf1f2b06a0ed501e5fa5a12ba3f9fbc1343c988847fb585c29c59ada4b71ab5"
+        ]
+      },
+      {
+        "path": "registry/zama/eip712-UserDecryptRequestVerificationV2.json",
+        "encodeTypeHashes": [
+          "0x4ee965201c2f6fd39bb37401a5de0ea2362ef4db8199c112ec67d694006e114e"
         ]
       }
     ]
